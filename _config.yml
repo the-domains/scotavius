@@ -1,0 +1,14 @@
+layout_spectrum: 0.6723571
+color:
+  saturation: 0.3926612
+  lightness: 0.5634359
+  brandStrength: 0.7937379
+  brandColors:
+    - '#102C44'
+    - '#BD964B'
+    - '#D1BF96'
+    - '#464F45'
+    - '#EBDBC3'
+  rhythmicContrast: 0.2953838
+typography_spectrum: 0.621786
+name: Scotavius
